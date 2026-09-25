@@ -13,6 +13,7 @@ or just download it as zip.
 
 # How to use?
 If you are using linux, it is recommended to install python, open the terminal and just run:
+
 python kbm_blocker-linux.py (IT WORKS ON WINDOWS ALSO)
 
 But if you are using windows, you can just open the .exe file.
